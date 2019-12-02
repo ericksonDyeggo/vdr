@@ -111,8 +111,8 @@ if executable('ag')
   let g:ctrlp_use_caching = 0
 endif
 
-" Make it obvious where 80 characters is
-set textwidth=80
+" Make it obvious where 120 characters is
+set textwidth=120
 set colorcolumn=+1
 
 " Numbers
