@@ -43,10 +43,6 @@ Plug 'venantius/vim-cljfmt'
 Plug 'Yggdroot/indentLine'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'mustache/vim-mustache-handlebars'
-Plug 'udalov/kotlin-vim'
-
-" Support for Language Server
-Plug 'w0rp/ale'
 
 " Track the engine.
 Plug 'SirVer/ultisnips'
